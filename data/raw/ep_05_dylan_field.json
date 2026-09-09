@@ -1,0 +1,11 @@
+{
+  "episode_id": "ep-005-dylan-field",
+  "title": "Building Figma: WebGL Multiplayer Architecture and Community-Led Growth",
+  "guest_name": "Dylan Field",
+  "guest_role": "Co-Founder & CEO, Figma",
+  "episode_url": "https://www.lennyspodcast.com/dylan-field-figma-multiplayer-growth/",
+  "publication_date": "2023-06-22",
+  "duration_seconds": 4350,
+  "description": "Dylan Field discusses the technical bets behind Figma's in-browser WebGL rendering engine, bottom-up enterprise expansion, and fostering a global creator community.",
+  "transcript_text": "Lenny: Welcome Dylan Field, CEO of Figma. Dylan, when you started building Figma in 2012, everyone said professional design in a web browser using WebGL was impossible. How did that technological conviction shape your product strategy?\n\nDylan Field: Thanks Lenny. In 2012, native desktop apps like Sketch and Adobe Illustrator ruled design. But we believed the web was the ultimate platform for collaboration. By building our own rendering engine in WebGL and C++ compiled to WebAssembly, we could render hundreds of artboards at 60 FPS in Chrome.\n\nLenny: And how did that unlock multiplayer collaboration?\n\nDylan Field: Before Figma, design was a lonely, siloed activity. Designers saved files like 'final_v2_edit_FINAL.sketch' and emailed them. With Figma, anyone could click a URL link and instantly view, comment, and co-design in real time. We turned design from an isolated craft into a team sport involving PMs, engineers, and copywriters.\n\nLenny: What was your monetization and pricing evolution?\n\nDylan Field: For our first two years of public release, Figma was completely free. We wanted zero barrier to adoption among individual designers. Once designers were deeply hooked and starting to collaborate with colleagues, we introduced our first paid Professional tier at $12 per editor per month, keeping viewers completely free. That viewer model was our secret weapon: PMs and engineers joined as free viewers, saw the magic, and advocated for enterprise-wide rollouts."
+}

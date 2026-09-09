@@ -1,0 +1,11 @@
+{
+  "episode_id": "ep-008-sean-ellis",
+  "title": "Inventing Growth Hacking, the ICE Prioritization Framework, and High-Velocity Testing",
+  "guest_name": "Sean Ellis",
+  "guest_role": "Author of Hacking Growth, ex-Dropbox, Eventbrite, LogMeIn",
+  "episode_url": "https://www.lennyspodcast.com/sean-ellis-growth-hacking-ice-framework/",
+  "publication_date": "2023-03-09",
+  "duration_seconds": 4200,
+  "description": "Sean Ellis shares the origin of Growth PM, how to run high-velocity experimentation cadences, and using the ICE score to prioritize growth experiments.",
+  "transcript_text": "Lenny: Sean Ellis coined the term 'Growth Hacking' and was the first growth leader at Dropbox and LogMeIn. Sean, how should growth teams prioritize hundreds of backlog ideas without getting paralyzed?\n\nSean Ellis: Hey Lenny. The biggest trap in growth is spending weeks debating theoretical ROI on untested ideas. That's why I created the ICE Score to rank experiments quickly on a 1-to-10 scale:\n\n1. I is for Impact: If this experiment succeeds, how dramatically will it move our core North Star or conversion metric? (1 = barely noticeable, 10 = transformative step-change).\n2. C is for Confidence: How confident are we that this hypothesis is correct based on historical data, user research, or competitor precedent? (1 = total wild guess, 10 = proven in parallel channel).\n3. E is for Ease: How fast and low-effort is it to build, launch, and measure this test? (1 = requires 3 months of backend overhaul, 10 = can be deployed in 2 hours via a no-code copy change).\n\nMultiply or average Impact, Confidence, and Ease to get your ICE score. Then test the top 3 ideas every single sprint.\n\nLenny: What is the relationship between experiment velocity and growth rate?\n\nSean Ellis: There is an almost 1-to-1 linear correlation between high-velocity testing and enterprise growth rate. Teams running 10+ experiments per week compound learning exponentially faster than teams running one big quarterly release. Even when only 30% of tests win, the compounding gains of 15 successful micro-optimizations per quarter completely outpace competitors."
+}

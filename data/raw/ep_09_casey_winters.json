@@ -1,0 +1,11 @@
+{
+  "episode_id": "ep-009-casey-winters",
+  "title": "Mastering Retention Curves, Feature vs. Product PMs, and Marketplace Growth",
+  "guest_name": "Casey Winters",
+  "guest_role": "Former Chief Product Officer, Eventbrite; Growth Lead, Pinterest & Grubhub",
+  "episode_url": "https://www.lennyspodcast.com/casey-winters-retention-curves-marketplace-growth/",
+  "publication_date": "2023-02-07",
+  "duration_seconds": 4450,
+  "description": "Casey Winters explains how to read cohort retention curves, when a retention curve is truly flattening, and distinguishing feature PMs from growth PMs.",
+  "transcript_text": "Lenny: Welcome Casey Winters. Casey, you've scaled retention at Pinterest, Grubhub, and Eventbrite. When founders say 'our retention is 30%,' why is that statement meaningless without looking at the cohort curve shape?\n\nCasey Winters: Hey Lenny. The absolute percentage matters much less than the asymptotic shape of your cohort retention curve. If you plot user cohorts over month 1, month 2, month 6, month 12:\n\n1. If the curve continuously slopes down towards zero with no flattening, your product does not have product-market fit. Adding top-of-funnel users is like pouring water into a leaky bucket.\n2. If the curve flattens parallel to the x-axis after month 3 (e.g., stabilizing at 25% or 40%), you have a stable core base of engaged users. That flattening asymptote is your true retained product-market fit.\n3. In exceptional PLG/collaborative products (like Slack, Miro, or Figma), the cohort curve actually curves upward after month 6 (Negative Churn / Net Dollar Retention > 120%) because existing accounts expand organically.\n\nLenny: What is the difference between a Feature PM and a Growth PM?\n\nCasey Winters: A Feature PM creates new product value by identifying unsolved customer problems and shipping new capabilities. A Growth PM removes friction to help customers discover, adopt, and experience the existing product value that the feature PMs already built. If you don't have existing product value, hiring a Growth PM will only accelerate your rate of discovering you don't have PMF."
+}

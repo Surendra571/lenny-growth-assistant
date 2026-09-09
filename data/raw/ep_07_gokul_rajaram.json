@@ -1,0 +1,11 @@
+{
+  "episode_id": "ep-007-gokul-rajaram",
+  "title": "The SPADE Decision-Making Framework and Setting North Star Metrics",
+  "guest_name": "Gokul Rajaram",
+  "guest_role": "Product Leader & Board Member, DoorDash, Square, Google",
+  "episode_url": "https://www.lennyspodcast.com/gokul-rajaram-spade-framework-decision-making/",
+  "publication_date": "2022-10-11",
+  "duration_seconds": 4500,
+  "description": "Gokul Rajaram teaches the SPADE framework for high-stakes decision making, defining crisp North Star metrics, and running efficient product reviews.",
+  "transcript_text": "Lenny: Today my guest is Gokul Rajaram, often called 'the godfather of product management' in Silicon Valley. Gokul, you created the SPADE framework to help companies make fast, high-quality, transparent decisions. What are the 5 parts of SPADE?\n\nGokul Rajaram: Thank you Lenny. SPADE stands for Setting, People, Alternatives, Decide, and Explain.\n\n1. S is for Setting: You must define what the decision is, why it is being made now, and what the precise success metrics and constraints are.\n2. P is for People: Clearly identify the Responsible Person (the single decision maker), the Consulted participants who provide input, and the Approver (usually an executive or board member who can veto).\n3. A is for Alternatives: Great decisions require at least 3 genuinely distinct, viable alternatives—not one obvious good option and two strawmen. Each alternative must detail pros, cons, and second-order consequences.\n4. D is for Decide: The single Responsible Person makes the call. It is not consensus voting. A consensus decision is usually a compromised, watered-down decision.\n5. E is for Explain: The decision maker writes a short 1-page memo explaining why the chosen alternative was selected and why other alternatives were rejected, holding a brief readout with all stakeholders to commit to execution.\n\nLenny: How should teams pick their North Star Metric?\n\nGokul Rajaram: A North Star Metric must measure three things simultaneously: value delivered to the customer, long-term business health, and whether product quality is improving. For example, at DoorDash, it wasn't raw gross orders; it was 'Successful Deliveries Delivered On-Time and Warm'."
+}

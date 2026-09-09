@@ -1,0 +1,77 @@
+{
+  "version": "1.0.0",
+  "last_run": "2026-09-09T08:15:41.249691+00:00",
+  "total_episodes": 10,
+  "episodes": {
+    "ep-010-april-dunford": {
+      "title": "Mastering Product Positioning: The 5 Components and Overcoming the Better Trap",
+      "guest_name": "April Dunford",
+      "content_hash": "80e767ccfe0600b64ac0cc1f435037de538cebe8f65f7144d6337dc49bbfa561",
+      "chunk_count": 1,
+      "last_ingested": "2026-09-09T08:13:59.038385+00:00"
+    },
+    "ep-001-rahul-vohra": {
+      "title": "Finding Product-Market Fit with Superhuman's PMF Engine",
+      "guest_name": "Rahul Vohra",
+      "content_hash": "8fef89526bbbc3ea5e6e0d28f153aebbd8e77abfebf30fb73d41dcbfecc5fb49",
+      "chunk_count": 2,
+      "last_ingested": "2026-09-09T08:13:59.044420+00:00"
+    },
+    "ep-002-brian-chesky": {
+      "title": "Leading Airbnb through Founder Mode and Product Excellence",
+      "guest_name": "Brian Chesky",
+      "content_hash": "8421c4f6b061ae1bba5f5cbd332e4464183c2be39b2b083c016bb0f750cd5cc1",
+      "chunk_count": 2,
+      "last_ingested": "2026-09-09T08:13:59.048094+00:00"
+    },
+    "ep-003-shreyas-doshi": {
+      "title": "High-Agency Product Management, the LNO Framework, and Strategy Memos",
+      "guest_name": "Shreyas Doshi",
+      "content_hash": "62a88ab67e04575ed31cc28f93246a17deb51caa960aa1660d31b02a2e97d27b",
+      "chunk_count": 2,
+      "last_ingested": "2026-09-09T08:13:59.053080+00:00"
+    },
+    "ep-004-elena-verna": {
+      "title": "B2B Product-Led Growth, Freemium vs. Free Trial, and Growth Loops",
+      "guest_name": "Elena Verna",
+      "content_hash": "53a5b25d3be589e31bb34a63e75fcfafca2ace97ad63cc79861f9aaf74e4777f",
+      "chunk_count": 2,
+      "last_ingested": "2026-09-09T08:13:59.060682+00:00"
+    },
+    "ep-005-dylan-field": {
+      "title": "Building Figma: WebGL Multiplayer Architecture and Community-Led Growth",
+      "guest_name": "Dylan Field",
+      "content_hash": "f1dd05bae814b008d08866244e2ae21009a3ecbdeb6e9276486390497d585700",
+      "chunk_count": 1,
+      "last_ingested": "2026-09-09T08:13:59.063695+00:00"
+    },
+    "ep-007-gokul-rajaram": {
+      "title": "The SPADE Decision-Making Framework and Setting North Star Metrics",
+      "guest_name": "Gokul Rajaram",
+      "content_hash": "15954b2b5815af04e2610cb1306bfaa2b5aec65fb9b01b5bfa606db65973a349",
+      "chunk_count": 2,
+      "last_ingested": "2026-09-09T08:13:59.066697+00:00"
+    },
+    "ep-008-sean-ellis": {
+      "title": "Inventing Growth Hacking, the ICE Prioritization Framework, and High-Velocity Testing",
+      "guest_name": "Sean Ellis",
+      "content_hash": "f8cb33eb73b903b6555967b74d5093ac68693ddce1be13338d63cdcf417f4e4b",
+      "chunk_count": 2,
+      "last_ingested": "2026-09-09T08:13:59.070263+00:00"
+    },
+    "ep-009-casey-winters": {
+      "title": "Mastering Retention Curves, Feature vs. Product PMs, and Marketplace Growth",
+      "guest_name": "Casey Winters",
+      "content_hash": "a48f07c15ecdc23677f847590327ebb4164754c8dcd6ee0da5c5e457b0166c55",
+      "chunk_count": 1,
+      "last_ingested": "2026-09-09T08:13:59.073256+00:00"
+    },
+    "ep-011-lenny-cold-start": {
+      "title": "How Marketplaces Solve the Cold Start Problem and Scale Liquidity",
+      "guest_name": "Lenny Rachitsky",
+      "content_hash": "0fb44ce30b233f01997e4f8e3fdda81f09e6b09f01e395acdaaffcbcca2d2bc7",
+      "chunk_count": 3,
+      "last_ingested": "2026-09-09T08:13:59.077602+00:00"
+    }
+  }
+}
